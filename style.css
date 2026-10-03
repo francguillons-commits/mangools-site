@@ -1,0 +1,71 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.7;
+    background: #f6f7f9;
+    color: #202124;
+}
+
+header {
+    background: #111827;
+    padding: 20px;
+}
+
+.logo {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background: white;
+}
+
+h1 {
+    line-height: 1.3;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+a {
+    color: #1558d6;
+}
+
+.card {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+.affiliate {
+    display: inline-block;
+    padding: 12px 18px;
+    background: #111827;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+blockquote {
+    border-left: 4px solid #ccc;
+    padding-left: 15px;
+    color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    color: #666;
+}
