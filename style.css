@@ -49,6 +49,15 @@ a {
     border-radius: 10px;
 }
 
+.affiliate-box {
+    margin: 40px 0;
+    padding: 25px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    background: #f8fafc;
+    text-align: center;
+}
+
 .affiliate {
     display: inline-block;
     padding: 12px 18px;
@@ -56,6 +65,11 @@ a {
     color: white;
     text-decoration: none;
     border-radius: 6px;
+    font-weight: bold;
+}
+
+.affiliate:hover {
+    opacity: 0.85;
 }
 
 blockquote {
